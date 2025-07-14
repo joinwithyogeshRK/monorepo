@@ -6,4 +6,4 @@ exports.signupInput = zod_1.z.object({
     username: zod_1.z.string(),
     password: zod_1.z.string()
 });
-console.log("hi there");
+console.log("helo there");
